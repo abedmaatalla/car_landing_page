@@ -1,0 +1,65 @@
+.logo{
+    margin-top: 2px;
+}
+
+.logo img{
+    width: 90px;
+}
+
+.header{
+    background-image: url(../images/header-image.png);
+    background-repeat: no-repeat;
+    background-size: 100% 566px;
+    height: 566px;
+}
+
+.nav{
+    margin-top: 14px;
+}
+
+.call-to-action{
+    margin-top: 30px;
+}
+
+.section1, .section2, .section3{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.section4{
+
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+.section-header{
+    justify-content: center;
+    align-items: center;
+}
+
+.section-header p{
+    width:  33.33%;
+}
+
+.section1 .card{
+    border: none;
+    border-radius: 0;
+    align-items: center;
+}
+.section1 .card img{
+    height: 169px;
+    width: 169px;
+}
+
+#news-form button{
+    float: right;
+    margin-top: -38px;
+}
+
+.footer > div{
+    margin-bottom: 30px; 
+}
+
+footer a {
+    margin-right: 3px;
+}
